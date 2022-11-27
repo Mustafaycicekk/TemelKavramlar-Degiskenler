@@ -1,0 +1,2 @@
+# TemelKavramlar-Degiskenler
+ patika.dev
